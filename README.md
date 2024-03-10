@@ -10,7 +10,8 @@ To install the necessary dependencies, run:
 pip install reportlab
 ```
 ## please Install this  extesion before process with the code
-![Uploading image.png…]()
+![image](https://github.com/Dev083/payment-receipts-/assets/75601698/b80a88f9-ceb7-4b87-810a-357284c4ab3a)
+
 
 ## Approach
 
