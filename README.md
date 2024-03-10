@@ -67,3 +67,4 @@ pdf.build([title, table])
 ```
 
 This project provides a simple yet effective way to generate payment receipts in PDF format using Python.
+![image](https://github.com/Dev083/payment-receipts-/assets/75601698/9a9def98-75da-417f-b16a-c8624a21ee5d)
